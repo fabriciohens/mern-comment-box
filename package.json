@@ -1,0 +1,8 @@
+{
+  "name": "mern-comment-box",
+  "version": "1.0.0",
+  "description": "Comment box using the MERN stack",
+  "main": "server.js",
+  "author": "Fabrício Henrique Ramos",
+  "license": "MIT"
+}
